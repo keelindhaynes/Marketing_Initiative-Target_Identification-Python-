@@ -1,10 +1,11 @@
-#GEO443_FinalScript_HaynesKD
+#Locating, Mapping, and Reaching Customers
 #Keelin Haynes
-#Geo 443
 #May 3, 2017
 #This script will locate kroger stores within a LBRS dataset, create a buffer
 # around them, select all homes and bussinesses within that buffer,
 # and create a mailing list containing thte addresses
+#
+#This script is written to be used with ArcPy
 
 #In order for this to be as usable as possible with as little user input as possible, this will create all items with generic terms. i.e. No county identifying information will be
 #contained in it. Your outputs will by: "Kroger", "Kroger_Buffer", and "Applicable_Addresses".

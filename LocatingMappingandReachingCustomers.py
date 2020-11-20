@@ -1,5 +1,4 @@
 #Locating, Mapping, and Reaching Customers
-#Keelin Haynes
 #May 3, 2017
 #This script will locate kroger stores within a LBRS dataset, create a buffer
 # around them, select all homes and bussinesses within that buffer,
